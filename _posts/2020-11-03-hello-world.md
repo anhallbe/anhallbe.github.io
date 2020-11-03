@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Hello, world!"
+date:   2020-11-03 17:53:01 +0100
+categories: personal
+---
 # Hello, world!
 I don't know a whole lot about blogging. I don't know how to write to capture an audience, and I'm not sure if there really is any point in doing so. I've read countless blog posts on various topics (most of them related to some technical problem I'm trying to solve in my day-to-day), but I have never really followed a blogging person and haven't really cared about getting in to it myself.
 
